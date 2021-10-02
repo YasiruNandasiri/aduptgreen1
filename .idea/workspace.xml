@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d478ad7-3987-4a9a-b883-aee8652ce41f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m34WyvRi5qG8titQqP4uTwtjey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\user-registration\lib" />
+      <recent name="C:\AppServ\www\user-registration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d478ad7-3987-4a9a-b883-aee8652ce41f" name="Default Changelist" comment="" />
+      <created>1608708981907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608708981907</updated>
+      <workItem from="1608708994702" duration="3779000" />
+      <workItem from="1609213485067" duration="187000" />
+      <workItem from="1609213687907" duration="14952000" />
+      <workItem from="1609480527545" duration="1273000" />
+      <workItem from="1609774234988" duration="16525000" />
+      <workItem from="1609858113701" duration="1068000" />
+      <workItem from="1610018350717" duration="595000" />
+      <workItem from="1610103045645" duration="627000" />
+      <workItem from="1610249455679" duration="2511000" />
+      <workItem from="1610266340033" duration="4181000" />
+      <workItem from="1610312676657" duration="2050000" />
+      <workItem from="1610317401438" duration="3036000" />
+      <workItem from="1610433806774" duration="4888000" />
+      <workItem from="1613494173030" duration="2639000" />
+      <workItem from="1613551818248" duration="5730000" />
+      <workItem from="1613653112082" duration="2467000" />
+      <workItem from="1613812807018" duration="1717000" />
+      <workItem from="1613976434204" duration="1641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="922" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1633181266679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633181266679" />
+  </component>
+</project>
